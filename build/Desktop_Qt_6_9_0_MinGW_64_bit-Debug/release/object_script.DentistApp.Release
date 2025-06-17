@@ -1,0 +1,11 @@
+release/databasemanager.o
+release/main.o
+release/mainwindow.o
+release/visits.o
+release/visitscheckdate.o
+release/visitsset.o
+release/moc_databasemanager.o
+release/moc_mainwindow.o
+release/moc_visits.o
+release/moc_visitscheckdate.o
+release/moc_visitsset.o
