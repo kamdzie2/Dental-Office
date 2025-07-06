@@ -12,6 +12,7 @@ SOURCES += \
     databasemanager.cpp \
     main.cpp \
     mainwindow.cpp \
+    patientslist.cpp \
     visits.cpp \
     visitscheckdate.cpp \
     visitsset.cpp
@@ -19,12 +20,14 @@ SOURCES += \
 HEADERS += \
     databasemanager.h \
     mainwindow.h \
+    patientslist.h \
     visits.h \
     visitscheckdate.h \
     visitsset.h
 
 FORMS += \
     mainwindow.ui \
+    patientslist.ui \
     visits.ui \
     visitscheckdate.ui \
     visitsset.ui

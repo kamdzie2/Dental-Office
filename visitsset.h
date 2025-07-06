@@ -4,10 +4,6 @@
 #include <QDialog>
 #include <QDate>
 #include "databasemanager.h"
-#include <QSqlQuery>
-#include <QSqlError>
-#include <QMessageBox>
-#include <QDebug>
 #include <QDateTime>
 #include <QPushButton>
 

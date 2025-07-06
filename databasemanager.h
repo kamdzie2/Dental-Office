@@ -9,7 +9,8 @@
 #include <QDebug>
 #include <QSqlQueryModel>
 #include <QMessageBox>
-
+#include <QSqlRecord>
+#include <QSqlTableModel>
 
 class DataBaseManager : public QObject
 {

@@ -5,6 +5,7 @@
 #include <memory>
 #include "databasemanager.h"
 #include "visits.h"
+#include "patientslist.h"
 #include <QDebug>
 
 
@@ -42,5 +43,6 @@ private:
     Ui::MainWindow *ui;
     DataBaseManager *m_dbManager;
     visits *visitsDial;
+    PatientsList *patientsList;
 };
 #endif // MAINWINDOW_H

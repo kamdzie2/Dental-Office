@@ -5,7 +5,6 @@
 #include <QDate>
 #include "databasemanager.h"
 #include "visitsset.h"
-#include <QSqlRecord>
 
 class DataBaseManager;
 class QSqlQueryModel;

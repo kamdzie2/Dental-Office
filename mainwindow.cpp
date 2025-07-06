@@ -64,7 +64,8 @@ void MainWindow::on_pushButton_visits_clicked()
 
 void MainWindow::on_pushButton_patList_clicked()
 {
-
+    patientsList = new PatientsList(m_dbManager,this);
+    patientsList -> show();
 }
 
 
